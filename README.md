@@ -26,3 +26,7 @@ branches column is used to mark down different types of plasmons, which we call 
 ratio is defined as: ![](https://latex.codecogs.com/gif.latex?%5Cfrac%7B%20A%28%20%5Comega_%7B%20P_%7Bij%7D%20%7D%20%29%20%7D%7B%5Cmax_%7Bij%7D%20A%28%20%5Comega_%7B%20P_%7Bij%7D%20%7D%20%29%20%7D)
 
 Absorption column contains intensity of the plasmon absorption peak
+
+The data is plotted in Fig. 6 in the paper "Intersubband plasmon excitations in doped carbon nanotubes"
+
+If you have any further questions, feel free to contact me by e-mail daria.satco@skoltech.ru
