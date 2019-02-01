@@ -28,5 +28,6 @@ ratio is defined as: ![](https://latex.codecogs.com/gif.latex?%5Cfrac%7B%20A%28%
 Absorption column contains intensity of the plasmon absorption peak
 
 The data is plotted in Fig. 6 in the paper "Intersubband plasmon excitations in doped carbon nanotubes"
+The source code to run calculations is here: https://github.com/DariaSatco/cntabsorpt
 
 If you have any further questions, feel free to contact me by e-mail daria.satco@skoltech.ru
